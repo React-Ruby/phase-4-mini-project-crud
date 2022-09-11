@@ -29,3 +29,4 @@ class SpicesController < ApplicationController
   end
 
 end
+
